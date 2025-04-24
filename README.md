@@ -1,1 +1,13 @@
 # AOL-Software-Engineering-12
+
+Deskripsi AOL : Web / aplikasi yang menerima input foto daun tanaman, dan mendeteksi penyakitnya serta memberikan solusi serta menyediakan media jual beli obat tanaman
+
+Fitur dari AOL : Mendeteksi penyakit pada tanaman, dan pasar jual beli
+
+Team member :
+Alfonsus Nathanael - 2702245236
+Yehezkiel Kenneth Hosea - 2702352010
+Jordan Grant - 2702264664
+Muhammad Alfajry Naufal - 2702382146
+Ilham Ananda Binta Toroshi - 2702388414
+Wilson Prajnawira - 2702257343
